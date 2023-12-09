@@ -1,0 +1,6 @@
+server:
+  port: 8084
+
+bot:
+  token: 6773569835:AAFzgLxaHQPD0z-PqAkEQ4j56DXysKpiXyI
+  name: E_veteran_team15_Bot
